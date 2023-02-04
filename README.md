@@ -1,5 +1,7 @@
 # SoyUn.Pro
 
+![Screenshot](./img/screenshot.png)
+
 Jorge Jonathan Mendoza López
 
 San Luis Potosí, S.L.P., México, a 02 de febrero de 2023.

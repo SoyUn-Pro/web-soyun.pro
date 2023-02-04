@@ -15,7 +15,12 @@ nav {
   background: #1B2430;
 }
 #hero .descripcion {
-  padding: 2rem 8rem;
+  padding: 2rem 0;
+  width: 100%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 #hero #img {
   max-height: 35vh;
